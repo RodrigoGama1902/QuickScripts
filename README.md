@@ -12,15 +12,15 @@ This is will be your first step into using scripts in Blender! You can get the a
 
 ## Features:
 
-Library Organization
+- Library Organization
 
-Add to Favorites
+- Add to Favorites
 
-Fast Edit
+- Fast Edit
 
-Modal Scripts Ready
+- Modal Scripts Ready
 
-Quick Scripts Starter Pack
+- Quick Scripts Starter Pack
 
 ## You will Find a Detailed Description at this link:
 
@@ -32,4 +32,4 @@ https://help.kuimi3d.com/docs/quick-scripts/
 
 ## Limitations:
 
-Only Windows OS supported
+- Only Windows OS supported
