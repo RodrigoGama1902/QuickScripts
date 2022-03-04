@@ -24,11 +24,11 @@ This is will be your first step into using scripts in Blender! You can get the a
 
 ## You will Find a Detailed Description at this link:
 
-https://kuimi3d.com/quickscripts/
+https://cgoutset.com/quickscripts/
 
 ## Documentation:
 
-https://help.kuimi3d.com/docs/quick-scripts/
+https://help.cgoutset.com/docs/quick-scripts/
 
 ## Limitations:
 
