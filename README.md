@@ -1,4 +1,4 @@
-**What is "Quick Scripts"?**
+## What is "Quick Scripts"?
 
 Quick Scripts is an add-on for Blender 3D, that will speed up your workflow with quick access to your script library ready to be used in one click.
 
