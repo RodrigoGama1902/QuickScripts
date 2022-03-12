@@ -20,8 +20,6 @@ This is will be your first step into using scripts in Blender! You can get the a
 
 - Modal Scripts Ready
 
-- Quick Scripts Starter Pack
-
 ## You will Find a Detailed Description at this link:
 
 https://cgoutset.com/quickscripts/
