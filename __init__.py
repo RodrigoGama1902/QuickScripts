@@ -22,12 +22,12 @@ bl_info = {
     "name": "Quick Scripts",
     "description": "Making using scripts in Blender easier",
     "author": "Rodrigo Gama",
-    "version": (1, 0),
-    "blender": (2, 93, 0),
+    "version": (1, 0, 1),
+    "blender": (3, 1, 0),
     "location": "View3D",
     "category": "3D View",
-    "doc_url": "https://help.kuimi3d.com/docs/quick-scripts/",
-    "tracker_url": "https://help.kuimi3d.com/bug-report/",
+    "doc_url": "https://help.cgoutset.com/docs/quick-scripts/",
+    "tracker_url": "https://help.cgoutset.com/bug-report/",
     }
 
 def register():
