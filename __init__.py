@@ -22,7 +22,7 @@ bl_info = {
     "name": "Quick Scripts",
     "description": "Making using scripts in Blender easier",
     "author": "Rodrigo Gama",
-    "version": (1, 0, 1),
+    "version": (1, 0, 2),
     "blender": (3, 3, 0),
     "location": "View3D",
     "category": "3D View",
