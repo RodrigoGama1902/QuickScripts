@@ -23,7 +23,7 @@ bl_info = {
     "description": "Making using scripts in Blender easier",
     "author": "Rodrigo Gama",
     "version": (1, 0, 1),
-    "blender": (3, 1, 0),
+    "blender": (3, 3, 0),
     "location": "View3D",
     "category": "3D View",
     "doc_url": "https://help.cgoutset.com/docs/quick-scripts/",
